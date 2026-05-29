@@ -93,7 +93,7 @@ Streamlit Dashboard
 
 ---
 
-## 📸 Screenshots (Add After Running App)
+## 📸 Screenshots 
 
 ### Dashboard View
 <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/b5ebf204-ec44-4a6c-8282-67475db9c37f" />
@@ -104,7 +104,7 @@ Streamlit Dashboard
 
 ---
 
-## 🧠 Key Business Questions Answered
+## 🧠 Key Business 
 
 - Which locations have the highest-rated restaurants?
 - Which areas are over-saturated with restaurants?
